@@ -8,6 +8,8 @@ sites:
     url: https://www.asomuenchen.de
   - name: Netlify
     url: https://mstempl.netlify.app
+  - name: Upptime
+    url: https://bassmann.github.io/uptime/
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
