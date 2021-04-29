@@ -6,15 +6,15 @@
     "slug": "aso",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 2247,
-    "timeDay": 1880,
-    "timeWeek": 1874,
-    "timeMonth": 3141,
-    "timeYear": 2247,
+    "time": 2240,
+    "timeDay": 1273,
+    "timeWeek": 1864,
+    "timeMonth": 3134,
+    "timeYear": 2240,
     "dailyMinutesDown": {
       "2021-04-27": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 157,
-    "timeWeek": 264,
-    "timeMonth": 270,
-    "timeYear": 235,
+    "time": 237,
+    "timeDay": 474,
+    "timeWeek": 278,
+    "timeMonth": 273,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 137,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 117,
+    "time": 116,
+    "timeDay": 40,
+    "timeWeek": 102,
+    "timeMonth": 99,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   }
 ]
