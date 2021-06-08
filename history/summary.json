@@ -43,17 +43,19 @@
     "url": "https://bassmann.github.io/uptime/",
     "icon": "https://favicons.githubusercontent.com/bassmann.github.io",
     "slug": "upptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 139,
-    "timeWeek": 147,
-    "timeMonth": 97,
+    "timeDay": 84,
+    "timeWeek": 132,
+    "timeMonth": 95,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
