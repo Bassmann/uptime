@@ -53,18 +53,19 @@
     "url": "https://mstempl.netlify.app",
     "icon": "https://favicons.githubusercontent.com/mstempl.netlify.app",
     "slug": "netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 213,
     "timeDay": 143,
-    "timeWeek": 127,
+    "timeWeek": 110,
     "timeMonth": 193,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2022-02-10": 0,
       "2022-02-03": 28
     }
   },
