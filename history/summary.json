@@ -13,7 +13,7 @@
     "time": 3057,
     "timeDay": 1505,
     "timeWeek": 2529,
-    "timeMonth": 6083,
+    "timeMonth": 6160,
     "timeYear": 3262,
     "dailyMinutesDown": {
       "2022-04-03": 44,
@@ -62,9 +62,9 @@
     "url": "https://mstempl.netlify.app",
     "icon": "https://favicons.githubusercontent.com/mstempl.netlify.app",
     "slug": "netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -74,6 +74,7 @@
     "timeMonth": 194,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2022-04-07": 0,
       "2022-02-03": 28
     }
   },
