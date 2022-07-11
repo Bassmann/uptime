@@ -4,14 +4,14 @@
     "url": "https://www.asomuenchen.de",
     "icon": "https://favicons.githubusercontent.com/www.asomuenchen.de",
     "slug": "aso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "87.15%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "95.82%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "95.81%",
     "uptimeYear": "99.24%",
-    "time": 4001,
-    "timeDay": 10655,
+    "time": 3999,
+    "timeDay": 7649,
     "timeWeek": 6656,
     "timeMonth": 6977,
     "timeYear": 4376,
@@ -79,8 +79,7 @@
       "2021-07-25": 12,
       "2021-07-24": 83,
       "2021-07-23": 52,
-      "2021-07-22": 23,
-      "2021-07-21": 23
+      "2021-07-22": 23
     }
   },
   {
