@@ -6,15 +6,15 @@
     "slug": "aso",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "99.22%",
-    "time": 4008,
-    "timeDay": 1507,
-    "timeWeek": 5087,
-    "timeMonth": 6636,
-    "timeYear": 4380,
+    "time": 3991,
+    "timeDay": 2160,
+    "timeWeek": 5076,
+    "timeMonth": 6631,
+    "timeYear": 4368,
     "dailyMinutesDown": {
       "2022-07-22": 17,
       "2022-07-19": 57,
@@ -80,8 +80,7 @@
       "2021-07-29": 24,
       "2021-07-28": 52,
       "2021-07-27": 121,
-      "2021-07-25": 12,
-      "2021-07-24": 50
+      "2021-07-25": 12
     }
   },
   {
@@ -96,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 81,
-    "timeWeek": 84,
-    "timeMonth": 285,
-    "timeYear": 195,
+    "timeDay": 174,
+    "timeWeek": 97,
+    "timeMonth": 288,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2022-04-14": 37,
       "2022-02-03": 28
@@ -117,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 86,
-    "timeDay": 43,
-    "timeWeek": 75,
-    "timeMonth": 79,
+    "timeDay": 194,
+    "timeWeek": 80,
+    "timeMonth": 82,
     "timeYear": 83,
     "dailyMinutesDown": {
       "2021-10-06": 137,
