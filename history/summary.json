@@ -6,15 +6,15 @@
     "slug": "aso",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "98.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "97.56%",
     "uptimeYear": "99.26%",
     "time": 4009,
-    "timeDay": 4385,
-    "timeWeek": 5565,
-    "timeMonth": 6319,
-    "timeYear": 4259,
+    "timeDay": 1705,
+    "timeWeek": 3115,
+    "timeMonth": 6310,
+    "timeYear": 4277,
     "dailyMinutesDown": {
       "2022-07-27": 16,
       "2022-07-22": 17,
@@ -77,8 +77,7 @@
       "2021-09-13": 51,
       "2021-09-12": 52,
       "2021-08-31": 13,
-      "2021-08-30": 10,
-      "2021-07-29": 24
+      "2021-08-30": 10
     }
   },
   {
@@ -88,17 +87,16 @@
     "slug": "netlify",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 119,
-    "timeWeek": 121,
-    "timeMonth": 258,
-    "timeYear": 192,
+    "timeDay": 90,
+    "timeWeek": 119,
+    "timeMonth": 237,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2022-07-28": 6,
       "2022-04-14": 37,
       "2022-02-03": 28
     }
@@ -115,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 86,
-    "timeDay": 60,
-    "timeWeek": 73,
-    "timeMonth": 80,
+    "timeDay": 105,
+    "timeWeek": 81,
+    "timeMonth": 81,
     "timeYear": 83,
     "dailyMinutesDown": {
       "2021-10-06": 137,
