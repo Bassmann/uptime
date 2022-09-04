@@ -1,7 +1,7 @@
 url: https://www.asomuenchen.de
-status: up
-code: 200
-responseTime: 2388
-lastUpdated: 2022-09-03T23:19:38.326Z
+status: down
+code: 500
+responseTime: 23215
+lastUpdated: 2022-09-04T00:00:10.112Z
 startTime: Sat Jan 02 2021 13:43:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
