@@ -6,17 +6,16 @@
     "slug": "aso",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.21%",
-    "time": 4812,
-    "timeDay": 2622,
-    "timeWeek": 4845,
-    "timeMonth": 3823,
-    "timeYear": 5161,
+    "time": 4813,
+    "timeDay": 2631,
+    "timeWeek": 4841,
+    "timeMonth": 3785,
+    "timeYear": 5160,
     "dailyMinutesDown": {
-      "2022-12-03": 11,
       "2022-12-01": 27,
       "2022-11-30": 17,
       "2022-11-27": 59,
@@ -88,7 +87,8 @@
       "2022-05-08": 84,
       "2022-05-01": 26,
       "2022-04-15": 76,
-      "2022-04-03": 44
+      "2022-04-03": 44,
+      "2022-04-01": 28
     }
   },
   {
@@ -102,10 +102,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 216,
-    "timeDay": 50,
-    "timeWeek": 88,
-    "timeMonth": 234,
+    "time": 215,
+    "timeDay": 102,
+    "timeWeek": 77,
+    "timeMonth": 233,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2022-11-11": 19,
@@ -126,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 74,
-    "timeWeek": 78,
-    "timeMonth": 101,
+    "timeDay": 67,
+    "timeWeek": 73,
+    "timeMonth": 99,
     "timeYear": 92,
     "dailyMinutesDown": {}
   }
