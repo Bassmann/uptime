@@ -4,9 +4,9 @@
     "url": "https://www.asomuenchen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.asomuenchen.de.ico",
     "slug": "aso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.21%",
@@ -16,6 +16,7 @@
     "timeMonth": 4694,
     "timeYear": 4919,
     "dailyMinutesDown": {
+      "2023-03-13": 0,
       "2023-03-05": 15,
       "2023-02-19": 289,
       "2023-01-25": 77,
@@ -83,7 +84,7 @@
       "2022-06-16": 197,
       "2022-06-15": 17,
       "2022-06-11": 114,
-      "2022-06-05": 34
+      "2022-06-05": 16
     }
   },
   {
