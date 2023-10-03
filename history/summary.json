@@ -71,17 +71,19 @@
     "url": "https://bassmann.github.io/uptime/",
     "icon": "https://icons.duckduckgo.com/ip3/bassmann.github.io.ico",
     "slug": "upptime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 46,
-    "timeWeek": 93,
-    "timeMonth": 97,
-    "timeYear": 89,
-    "dailyMinutesDown": {}
+    "timeDay": 32,
+    "timeWeek": 84,
+    "timeMonth": 94,
+    "timeYear": 88,
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   }
 ]
