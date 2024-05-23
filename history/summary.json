@@ -25,9 +25,9 @@
     "url": "https://mstempl.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/mstempl.netlify.app.ico",
     "slug": "netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 71,
     "timeMonth": 78,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   },
   {
     "name": "Upptime",
