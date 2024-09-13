@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2054,
-    "timeDay": 2172,
-    "timeWeek": 1805,
-    "timeMonth": 1912,
-    "timeYear": 2044,
+    "timeDay": 1509,
+    "timeWeek": 1761,
+    "timeMonth": 1882,
+    "timeYear": 1994,
     "dailyMinutesDown": {
       "2024-07-02": 31
     }
@@ -26,18 +26,16 @@
     "slug": "netlify",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 177,
-    "timeWeek": 201,
-    "timeMonth": 264,
-    "timeYear": 114,
-    "dailyMinutesDown": {
-      "2024-09-12": 7
-    }
+    "timeDay": 163,
+    "timeWeek": 194,
+    "timeMonth": 254,
+    "timeYear": 113,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Upptime",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 89,
-    "timeWeek": 108,
-    "timeMonth": 106,
+    "timeDay": 50,
+    "timeWeek": 96,
+    "timeMonth": 104,
     "timeYear": 83,
     "dailyMinutesDown": {
       "2023-10-03": 19
