@@ -24,19 +24,19 @@
     "url": "https://mstempl.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/mstempl.netlify.app.ico",
     "slug": "netlify",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 136,
-    "timeWeek": 189,
+    "timeDay": 180,
+    "timeWeek": 196,
     "timeMonth": 247,
-    "timeYear": 113,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-09-15": 0
+      "2024-09-15": 5
     }
   },
   {
