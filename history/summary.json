@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.asomuenchen.de.ico",
     "slug": "aso",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2007,
-    "timeDay": 1415,
-    "timeWeek": 1677,
-    "timeMonth": 1753,
-    "timeYear": 1956,
+    "time": 2010,
+    "timeDay": 3424,
+    "timeWeek": 1879,
+    "timeMonth": 1813,
+    "timeYear": 1961,
     "dailyMinutesDown": {
       "2024-07-02": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 490,
-    "timeWeek": 195,
+    "time": 142,
+    "timeDay": 203,
+    "timeWeek": 201,
     "timeMonth": 237,
-    "timeYear": 152,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 66,
-    "timeWeek": 102,
-    "timeMonth": 89,
+    "timeDay": 138,
+    "timeWeek": 99,
+    "timeMonth": 91,
     "timeYear": 85,
     "dailyMinutesDown": {}
   }
