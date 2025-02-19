@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1954,
-    "timeDay": 1483,
-    "timeWeek": 1661,
-    "timeMonth": 1720,
-    "timeYear": 1903,
+    "time": 1953,
+    "timeDay": 1662,
+    "timeWeek": 1627,
+    "timeMonth": 1701,
+    "timeYear": 1905,
     "dailyMinutesDown": {
       "2024-07-02": 31
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mstempl.netlify.app.ico",
     "slug": "netlify",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 342,
-    "timeWeek": 224,
-    "timeMonth": 206,
-    "timeYear": 162,
-    "dailyMinutesDown": {
-      "2025-02-18": 15
-    }
+    "timeDay": 256,
+    "timeWeek": 232,
+    "timeMonth": 210,
+    "timeYear": 163,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Upptime",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 57,
-    "timeWeek": 76,
-    "timeMonth": 85,
+    "timeDay": 60,
+    "timeWeek": 66,
+    "timeMonth": 79,
     "timeYear": 88,
     "dailyMinutesDown": {}
   }
